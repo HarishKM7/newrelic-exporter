@@ -1,0 +1,177 @@
+[
+  {
+    "beginTimeSeconds": 1645929360,
+    "endTimeSeconds": 1646188560,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1646188560,
+    "endTimeSeconds": 1646447760,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1646447760,
+    "endTimeSeconds": 1646706960,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1646706960,
+    "endTimeSeconds": 1646966160,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1646966160,
+    "endTimeSeconds": 1647225360,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1647225360,
+    "endTimeSeconds": 1647484560,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1647484560,
+    "endTimeSeconds": 1647743760,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1647743760,
+    "endTimeSeconds": 1648002960,
+    "Web errors": 0.0002313386798272671
+  },
+  {
+    "beginTimeSeconds": 1648002960,
+    "endTimeSeconds": 1648262160,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1648262160,
+    "endTimeSeconds": 1648521360,
+    "Web errors": 0.00010680337498664957
+  },
+  {
+    "beginTimeSeconds": 1648521360,
+    "endTimeSeconds": 1648780560,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1648780560,
+    "endTimeSeconds": 1649039760,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1649039760,
+    "endTimeSeconds": 1649298960,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1649298960,
+    "endTimeSeconds": 1649558160,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1649558160,
+    "endTimeSeconds": 1649817360,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1649817360,
+    "endTimeSeconds": 1650076560,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1650076560,
+    "endTimeSeconds": 1650335760,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1650335760,
+    "endTimeSeconds": 1650594960,
+    "Web errors": 0.0
+  },
+  {
+    "beginTimeSeconds": 1650594960,
+    "endTimeSeconds": 1650854160,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1650854160,
+    "endTimeSeconds": 1651113360,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1651113360,
+    "endTimeSeconds": 1651372560,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1651372560,
+    "endTimeSeconds": 1651631760,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1651631760,
+    "endTimeSeconds": 1651890960,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1651890960,
+    "endTimeSeconds": 1652150160,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1652150160,
+    "endTimeSeconds": 1652409360,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1652409360,
+    "endTimeSeconds": 1652668560,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1652668560,
+    "endTimeSeconds": 1652927760,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1652927760,
+    "endTimeSeconds": 1653186960,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1653186960,
+    "endTimeSeconds": 1653446160,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1653446160,
+    "endTimeSeconds": 1653705360,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1653705360,
+    "endTimeSeconds": 1653964560,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1653964560,
+    "endTimeSeconds": 1654223760,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1654223760,
+    "endTimeSeconds": 1654482960,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1654482960,
+    "endTimeSeconds": 1654742160,
+    "Web errors": null
+  },
+  {
+    "beginTimeSeconds": 1654742160,
+    "endTimeSeconds": 1655001360,
+    "Web errors": null
+  }
+]

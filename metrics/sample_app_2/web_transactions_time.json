@@ -1,0 +1,492 @@
+[
+  {
+    "beginTimeSeconds": 1645894200,
+    "endTimeSeconds": 1646153400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1646153400,
+    "endTimeSeconds": 1646412600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1646412600,
+    "endTimeSeconds": 1646671800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1646671800,
+    "endTimeSeconds": 1646931000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1646931000,
+    "endTimeSeconds": 1647190200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1647190200,
+    "endTimeSeconds": 1647449400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1647449400,
+    "endTimeSeconds": 1647708600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1647708600,
+    "endTimeSeconds": 1647967800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 25.571588533985636,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1647967800,
+    "endTimeSeconds": 1648227000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 22.59808648086781,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1648227000,
+    "endTimeSeconds": 1648486200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 21.394035061840054,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1648486200,
+    "endTimeSeconds": 1648745400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 25.106966584921636,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1648745400,
+    "endTimeSeconds": 1649004600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 23.372818053211304,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1649004600,
+    "endTimeSeconds": 1649263800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 22.85876613832796,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1649263800,
+    "endTimeSeconds": 1649523000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 22.660165111584742,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1649523000,
+    "endTimeSeconds": 1649782200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 22.304115867605038,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1649782200,
+    "endTimeSeconds": 1650041400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 23.39736176294748,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1650041400,
+    "endTimeSeconds": 1650300600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 20.721056049257275,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1650300600,
+    "endTimeSeconds": 1650559800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 23.627563135255226,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1650559800,
+    "endTimeSeconds": 1650819000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": 23.291360996694383,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1650819000,
+    "endTimeSeconds": 1651078200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1651078200,
+    "endTimeSeconds": 1651337400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1651337400,
+    "endTimeSeconds": 1651596600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1651596600,
+    "endTimeSeconds": 1651855800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1651855800,
+    "endTimeSeconds": 1652115000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1652115000,
+    "endTimeSeconds": 1652374200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1652374200,
+    "endTimeSeconds": 1652633400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1652633400,
+    "endTimeSeconds": 1652892600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1652892600,
+    "endTimeSeconds": 1653151800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1653151800,
+    "endTimeSeconds": 1653411000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1653411000,
+    "endTimeSeconds": 1653670200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1653670200,
+    "endTimeSeconds": 1653929400,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1653929400,
+    "endTimeSeconds": 1654188600,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1654188600,
+    "endTimeSeconds": 1654447800,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1654447800,
+    "endTimeSeconds": 1654707000,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1654707000,
+    "endTimeSeconds": 1654966200,
+    "facet": "Web external",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Web external"
+  },
+  {
+    "beginTimeSeconds": 1645894200,
+    "endTimeSeconds": 1646153400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1646153400,
+    "endTimeSeconds": 1646412600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1646412600,
+    "endTimeSeconds": 1646671800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1646671800,
+    "endTimeSeconds": 1646931000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1646931000,
+    "endTimeSeconds": 1647190200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1647190200,
+    "endTimeSeconds": 1647449400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1647449400,
+    "endTimeSeconds": 1647708600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1647708600,
+    "endTimeSeconds": 1647967800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 15.23065524236822,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1647967800,
+    "endTimeSeconds": 1648227000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 9.096717820265916,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1648227000,
+    "endTimeSeconds": 1648486200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 8.586973390393492,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1648486200,
+    "endTimeSeconds": 1648745400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 8.954064442033138,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1648745400,
+    "endTimeSeconds": 1649004600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 8.588720741347405,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1649004600,
+    "endTimeSeconds": 1649263800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 10.53497239645005,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1649263800,
+    "endTimeSeconds": 1649523000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 8.835361686508001,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1649523000,
+    "endTimeSeconds": 1649782200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 8.8106175957943,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1649782200,
+    "endTimeSeconds": 1650041400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 9.196450645433158,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1650041400,
+    "endTimeSeconds": 1650300600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 10.271010996075947,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1650300600,
+    "endTimeSeconds": 1650559800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 10.83461544111894,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1650559800,
+    "endTimeSeconds": 1650819000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": 10.951253281239147,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1650819000,
+    "endTimeSeconds": 1651078200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1651078200,
+    "endTimeSeconds": 1651337400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1651337400,
+    "endTimeSeconds": 1651596600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1651596600,
+    "endTimeSeconds": 1651855800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1651855800,
+    "endTimeSeconds": 1652115000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1652115000,
+    "endTimeSeconds": 1652374200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1652374200,
+    "endTimeSeconds": 1652633400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1652633400,
+    "endTimeSeconds": 1652892600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1652892600,
+    "endTimeSeconds": 1653151800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1653151800,
+    "endTimeSeconds": 1653411000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1653411000,
+    "endTimeSeconds": 1653670200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1653670200,
+    "endTimeSeconds": 1653929400,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1653929400,
+    "endTimeSeconds": 1654188600,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1654188600,
+    "endTimeSeconds": 1654447800,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1654447800,
+    "endTimeSeconds": 1654707000,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  },
+  {
+    "beginTimeSeconds": 1654707000,
+    "endTimeSeconds": 1654966200,
+    "facet": "Java",
+    "average.apm.service.overview.web*1.0e3": null,
+    "segmentName": "Java"
+  }
+]
