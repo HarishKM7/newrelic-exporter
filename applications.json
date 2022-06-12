@@ -1,0 +1,56 @@
+[
+    {
+        "id": 97246853,
+        "name": "sample_app_1",
+        "language": "java",
+        "health_status": "gray",
+        "reporting": false,
+        "settings": {
+            "app_apdex_threshold": 0.5,
+            "end_user_apdex_threshold": 7.0,
+            "enable_real_user_monitoring": true,
+            "use_server_side_config": false
+        },
+        "links": {
+            "application_instances": [],
+            "servers": [],
+            "application_hosts": []
+        }
+    },
+    {
+        "id": 684869313,
+        "name": "sample_app_2",
+        "language": "java",
+        "health_status": "gray",
+        "reporting": false,
+        "settings": {
+            "app_apdex_threshold": 0.5,
+            "end_user_apdex_threshold": 7.0,
+            "enable_real_user_monitoring": true,
+            "use_server_side_config": false
+        },
+        "links": {
+            "application_instances": [],
+            "servers": [],
+            "application_hosts": []
+        }
+    },
+    {
+        "id": 706214311,
+        "name": "sample_app_3",
+        "language": "java",
+        "health_status": "gray",
+        "reporting": false,
+        "settings": {
+            "app_apdex_threshold": 0.5,
+            "end_user_apdex_threshold": 7.0,
+            "enable_real_user_monitoring": true,
+            "use_server_side_config": false
+        },
+        "links": {
+            "application_instances": [],
+            "servers": [],
+            "application_hosts": []
+        }
+    }
+]
