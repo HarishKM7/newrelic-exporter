@@ -1,0 +1,17 @@
+[
+    {
+        "accountId": 123456,
+        "guid": "ZqykODgzfEFQTXx...PTnwyMDM0MzI3NDQ",
+        "name": "sample_app_1"
+    },
+    {
+        "accountId": 123456,
+        "guid": "ZqykODgzfEFQTXx...PTnwyMjAwMDg0OTQ",
+        "name": "sample_app_2"
+    },
+    {
+        "accountId": 123456,
+        "guid": "ZqykODgzfEFQTXx...PTnwyMDU4MDQ5NDM",
+        "name": "sample_app_3"
+    }
+]
